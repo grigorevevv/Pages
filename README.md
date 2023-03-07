@@ -2,7 +2,7 @@
   
 Привет. Меня зовут Евгений.
     
-Я студент Netology. В данный момент изучаю Git   ![git](img/GIT.png) и GitHub ![github](img/GitHub.png
+Я студент Netology. В данный момент изучаю Git   ![git](img/GIT.png) и GitHub ![github](img/GitHub.png)
 
 Я уже прошел следующие модули:  
 * SQL и получение данных
