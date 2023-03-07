@@ -1,6 +1,6 @@
 Привет. Меня зовут Евгений.  
 Я студент Netology.  
-В данный момент изучаю Git   ![ss](img/GIT.png) и GitHub     ![g](img/GITHUB.png).
+В данный момент изучаю Git   ![git](img/GIT.png) и GitHub ![github](img/GitHub.png)
 
 
 
